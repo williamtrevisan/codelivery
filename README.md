@@ -5,7 +5,7 @@
 http://34.66.23.40/
 
 Code Delivery é uma aplicação baseada em microsserviços construída durante a 2ª edição da **Imersão FullStack & FullCycle**, evento organizado pela [Code.education](https://code.education/ "Site da Code education"). 
-A aplicação é contituída por um sistema de delivery que faz o controle de diversas entregas em tempo real, existindo a possibilidade de verificação da localização de cada entregador.
+A aplicação é constituída por um sistema de delivery que faz o controle de diversas entregas em tempo real, existindo a possibilidade de verificação da localização de cada entregador.
 
 ## Layout
 
